@@ -1,4 +1,4 @@
-// Coded by: John Victor H. Gonzales.
+// Coded by: Victor H. Gonzales.
 // Date: September 27, 2022
 // First Year
 
