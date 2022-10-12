@@ -51,9 +51,9 @@ Cash Discount:
 
 Main Menu
 
-Press I/i:Iphone 14		      $75,000.00
-Press S/s:Samsung Note 20	    $76,000.00
-Press X/x:Xiaomi Black shark	 $35,000.00
+Press I/i:Iphone 14				$75,000.00
+Press S/s:Samsung Note 20		$76,000.00
+Press X/x:Xiaomi Black shark	$35,000.00
 
 Enter Item:
 	Your Item is Iphone 14
@@ -63,13 +63,13 @@ Select mode of Payment
 Press 1:Cash					10% Discount
 Press 2:3 Months Installment	5% Interest
 Press 3:6 Months Installment	10% Interest
-Press 4:12 Months Installment   20% Interest
+Press 4:12 Months Installment	20% Interest
 
 Enter Mode of Payment:		
 Mode of Payment:				3 Months Installment
-Item:						   Iphone 14
-Price:						  $75,000.00
-Discount/Interest:			  $3,750.00
-Total Amount:				   $78,750.00
-Monthly Amortization:		   $26,250.00
+Item:							Iphone 14
+Price:							$75,000.00
+Discount/Interest:				$3,750.00
+Total Amount:					$78,750.00
+Monthly Amortization:			$26,250.00
 ```
