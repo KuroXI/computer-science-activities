@@ -7,21 +7,13 @@ Follow the given discount range:
 
 <img title="a title" alt="Alt text" src="https://i.imgur.com/2TBJMzi.png">
 
-**Input**
-
-Enter Product: Modem Router --> 1st input value\
-Enter Price: 14500.50 --> 2nd input value
-```
-Modem Router
-14500.50
-```
-
-**Output**
-```
-Enter Product:
-Enter Price:
-
-Price of the modem router is $14,500.50
-Discount is $725.03
-Net Price is $13,775.48
-```
+<details>
+    <summary>Test 1</summary>
+    
+    Enter Product: Modem Router
+    Enter Price: 14500.50
+    
+    Price of the Modem Router is $14,500.50
+    Discount is $725.03
+    Net Price is $13,775.48
+</details>

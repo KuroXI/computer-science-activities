@@ -1,6 +1,5 @@
 // Coded by: Victor H. Gonzales
 // Date: September 13, 2022
-// First Year
 
 import java.util.Scanner;
 import java.text.DecimalFormat;
