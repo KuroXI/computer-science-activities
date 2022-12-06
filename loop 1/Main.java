@@ -1,3 +1,6 @@
+// Coded by: Victor H. Gonzales.
+// Date: October 25, 2022
+
 import java.util.Scanner;
 
 public class Main {

@@ -1,3 +1,6 @@
+// Coded by: Victor H. Gonzales.
+// Date: November 15, 2022
+
 import java.util.Scanner;
 import java.util.Arrays;
 
