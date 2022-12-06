@@ -1,4 +1,4 @@
-<h1>Find the common element</h1>
+<h1>Rearrange the elements</h1>
 <h3>by Marc Laureta<h3>
 
 Create a 2 Dimensional Array program that will accept row and column input then rearrange the matrix input. 
